@@ -16,7 +16,7 @@
 
 	<modules>
 		<module>fvde-common-bom</module>
-<!--		<module>fvde-common-core</module>-->
+		<module>fvde-common-core</module>
 <!--		<module>fvde-common-logging</module>-->
 <!--		<module>fvde-common-json</module>-->
 <!--		<module>fvde-common-swagger</module>-->

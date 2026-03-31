@@ -26,6 +26,14 @@
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 	</properties>
 
+	<modules>
+		<module>fvde-common</module>
+		<module>fvde-libs</module>
+		<module>fvde-starters</module>
+		<module>fvde-apps</module>
+		<module>spring-boot-fvde-modules</module>
+	</modules>
+
 	<dependencyManagement>
 		<dependencies>
 
